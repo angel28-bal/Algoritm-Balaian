@@ -1,0 +1,9 @@
+﻿  Balaian_Lab_3.cpp
+  cs.cpp
+  gtn.cpp
+  gtn_utility.cpp
+  pipeline.cpp
+  utility.cpp
+  Создание кода...
+\\Mac\Home\Documents\GitHub\Algoritm-Balaian\Balaian_Lab_3\Balaian_Lab_3\gtn_utility.cpp(19): warning C4715: checker_cs_id: значение возвращается не при всех путях выполнения
+  Balaian_Lab_3.vcxproj -> \\Mac\Home\Documents\GitHub\Algoritm-Balaian\Balaian_Lab_3\x64\Debug\Balaian_Lab_3.exe
